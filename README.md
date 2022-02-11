@@ -1,2 +1,2 @@
 # ftp_manager
-A simple FTP protocol manager shows dataclass and contextmanager usage.
+A simple FTP protocol management script that allows user to download and upload file from and to a FTP server.
